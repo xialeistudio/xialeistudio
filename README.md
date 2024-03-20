@@ -12,8 +12,12 @@
 ![Badges](https://github-profile-trophy.vercel.app/?username=xialeistudio)
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-Comming soon.
+<!-- BLOG-POST-LIST:START -->
+- [Understanding Replication In MySQL](https://www.ddhigh.com/en/2024/03/17/understanding-replication-in-mysql/)
+- [Understanding MVCC In MySQL InnoDB](https://www.ddhigh.com/en/2024/03/09/understanding-mvcc-in-mysql-innodb/)
+- [Implementing timer in mio](https://www.ddhigh.com/en/2024/03/05/implementing-timer-in-mio/)
+- [如何在一个月内通过AWS助理级解决方案架构师认证](https://www.ddhigh.com/2023/12/31/how-to-pass-aws-saa-exam-in-one-month/)
+- [A deep dive into Bloomfilter in Redis](https://www.ddhigh.com/en/2023/11/19/a-deep-dive-into-bloomfilter-in-redis/)
 <!-- BLOG-POST-LIST:END -->  
 
 ## My Skill Set  
