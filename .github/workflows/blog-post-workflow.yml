@@ -13,7 +13,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in dev.to posts
+      - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.ddhigh.com/atom.xml,https://www.ddhigh.com/en/atom.xml"
+          feed_list: "https://www.ddhigh.com/en/atom.xml"
+          template: $newline - $randomEmoji [$title]($url) | $date
