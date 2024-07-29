@@ -13,7 +13,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
- - 💫 [A Comprehensive Overview of The Oauth2.0 Framework](https://www.ddhigh.com/en/2024/04/28/oauth2-comprehensive-overview/) | 2024-04-28 00:30:57
+ - 💫 [A Comprehensive Overview of The Oauth2.0 Framework](https://www.ddhigh.com/en/2024/07/28/oauth2-comprehensive-overview/) | 2024-07-28 00:30:57
  - 💫 [Use RAG to build your private knowledge base based on llama3 and langchain!](https://www.ddhigh.com/en/2024/04/28/llama3-rag-tutorial/) | 2024-04-28 00:30:57
  - 💫 [Retrieval-Augmented Generation](https://www.ddhigh.com/en/2024/04/24/retrieval-augmented-generation/) | 2024-04-24 12:30:57
  - 🔥 [Beyond GPT-3.5! Llama3 Personal Computer Local Deployment Tutorial.](https://www.ddhigh.com/en/2024/04/24/beyond-gpt-3.5-llama3-personal-computer-local-deployment-tutorial./) | 2024-04-24 11:30:57
