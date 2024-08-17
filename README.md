@@ -13,11 +13,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+ - 💫 [Build Your AI Search Bot with LLM and Search Engines](https://www.ddhigh.com/en/2024/08/15/build-your-ai-search-bot-with-llm-and-search-engines/) | 2024-08-15 07:57:11
  - 💫 [A Comprehensive Overview of The Oauth2.0 Framework](https://www.ddhigh.com/en/2024/07/28/oauth2-comprehensive-overview/) | 2024-07-28 00:30:57
  - 💫 [Use RAG to build your private knowledge base based on llama3 and langchain!](https://www.ddhigh.com/en/2024/04/28/llama3-rag-tutorial/) | 2024-04-28 00:30:57
- - 💫 [Retrieval-Augmented Generation](https://www.ddhigh.com/en/2024/04/24/retrieval-augmented-generation/) | 2024-04-24 12:30:57
- - 🔥 [Beyond GPT-3.5! Llama3 Personal Computer Local Deployment Tutorial.](https://www.ddhigh.com/en/2024/04/24/beyond-gpt-3.5-llama3-personal-computer-local-deployment-tutorial./) | 2024-04-24 11:30:57
- - 🔥 [Understanding Replication In MySQL](https://www.ddhigh.com/en/2024/03/17/understanding-replication-in-mysql/) | 2024-03-17 04:26:50<!-- BLOG-POST-LIST:END -->  
+ - 🔥 [Retrieval-Augmented Generation](https://www.ddhigh.com/en/2024/04/24/retrieval-augmented-generation/) | 2024-04-24 12:30:57
+ - 🔥 [Beyond GPT-3.5! Llama3 Personal Computer Local Deployment Tutorial.](https://www.ddhigh.com/en/2024/04/24/beyond-gpt-3.5-llama3-personal-computer-local-deployment-tutorial./) | 2024-04-24 11:30:57<!-- BLOG-POST-LIST:END -->  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
