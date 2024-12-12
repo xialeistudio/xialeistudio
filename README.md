@@ -13,11 +13,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+ - 💫 [OpenTelemetry Getting Started Guide](https://www.ddhigh.com/en/2024/12/02/opentelemetry-getstarted/) | 2024-12-02 03:53:08
  - 💫 [Build a weather query agent](https://www.ddhigh.com/en/2024/08/22/build-a-weather-query-agent/) | 2024-08-22 03:53:08
  - 💫 [Understanding the &quot;Temperature&quot; of Large Language Models](https://www.ddhigh.com/en/2024/08/20/understanding-the-temperature-of-llms/) | 2024-08-20 07:57:11
- - 💫 [Build Your AI Search Bot with LLM and Search Engines](https://www.ddhigh.com/en/2024/08/15/build-your-ai-search-bot-with-llm-and-search-engines/) | 2024-08-15 07:57:11
- - 🔥 [A Comprehensive Overview of The Oauth2.0 Framework](https://www.ddhigh.com/en/2024/07/28/oauth2-comprehensive-overview/) | 2024-07-28 00:30:57
- - 🔥 [Use RAG to build your private knowledge base based on llama3 and langchain!](https://www.ddhigh.com/en/2024/04/28/llama3-rag-tutorial/) | 2024-04-28 00:30:57<!-- BLOG-POST-LIST:END -->  
+ - 🔥 [Build Your AI Search Bot with LLM and Search Engines](https://www.ddhigh.com/en/2024/08/15/build-your-ai-search-bot-with-llm-and-search-engines/) | 2024-08-15 07:57:11
+ - 🔥 [A Comprehensive Overview of The Oauth2.0 Framework](https://www.ddhigh.com/en/2024/07/28/oauth2-comprehensive-overview/) | 2024-07-28 00:30:57<!-- BLOG-POST-LIST:END -->  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
