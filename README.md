@@ -13,11 +13,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+ - 💫 [IRSA vs. EC2 IAM:Usage Scenarios and Permission Management Practices](https://www.ddhigh.com/en/2025/03/25/aws-irsa-vs-ec2iam/) | 2025-03-25 03:53:08
  - 💫 [Principles Of Microservice Architecture](https://www.ddhigh.com/en/2025/02/13/principles-of-microservice-architecture/) | 2025-02-13 03:53:08
  - 💫 [The Evolution Of Service Architecture](https://www.ddhigh.com/en/2025/02/12/the-evolution-of-service-architecture/) | 2025-02-12 03:53:08
- - 💫 [OpenTelemetry Getting Started Guide](https://www.ddhigh.com/en/2024/12/02/opentelemetry-getstarted/) | 2024-12-02 03:53:08
- - 🔥 [Build a weather query agent](https://www.ddhigh.com/en/2024/08/22/build-a-weather-query-agent/) | 2024-08-22 03:53:08
- - 🔥 [Understanding the &quot;Temperature&quot; of Large Language Models](https://www.ddhigh.com/en/2024/08/20/understanding-the-temperature-of-llms/) | 2024-08-20 07:57:11<!-- BLOG-POST-LIST:END -->  
+ - 🔥 [OpenTelemetry Getting Started Guide](https://www.ddhigh.com/en/2024/12/02/opentelemetry-getstarted/) | 2024-12-02 03:53:08
+ - 🔥 [Build a weather query agent](https://www.ddhigh.com/en/2024/08/22/build-a-weather-query-agent/) | 2024-08-22 03:53:08<!-- BLOG-POST-LIST:END -->  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
