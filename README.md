@@ -13,11 +13,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+ - 💫 [C++ Coroutines Advanced: Converting std::future to asio::awaitable](https://www.ddhigh.com/en/2025/07/15/cpp-coroutine-future-to-awaitable/) | 2025-07-15 01:00:00
  - 💫 [Lunet: Design and Implementation of a High-Performance Coroutine Network Library](https://www.ddhigh.com/en/2025/07/12/lunet-high-performance-coroutine-network-library/) | 2025-07-12 03:53:08
  - 💫 [IRSA vs. EC2 IAM:Usage Scenarios and Permission Management Practices](https://www.ddhigh.com/en/2025/03/25/aws-irsa-vs-ec2iam/) | 2025-03-25 03:53:08
- - 💫 [Principles Of Microservice Architecture](https://www.ddhigh.com/en/2025/02/13/principles-of-microservice-architecture/) | 2025-02-13 03:53:08
- - 🔥 [The Evolution Of Service Architecture](https://www.ddhigh.com/en/2025/02/12/the-evolution-of-service-architecture/) | 2025-02-12 03:53:08
- - 🔥 [OpenTelemetry Getting Started Guide](https://www.ddhigh.com/en/2024/12/02/opentelemetry-getstarted/) | 2024-12-02 03:53:08<!-- BLOG-POST-LIST:END -->  
+ - 🔥 [Principles Of Microservice Architecture](https://www.ddhigh.com/en/2025/02/13/principles-of-microservice-architecture/) | 2025-02-13 03:53:08
+ - 🔥 [The Evolution Of Service Architecture](https://www.ddhigh.com/en/2025/02/12/the-evolution-of-service-architecture/) | 2025-02-12 03:53:08<!-- BLOG-POST-LIST:END -->  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
