@@ -1,7 +1,7 @@
 ### Hi, I'm Lei Xia 👋
 
 Backend engineer building distributed systems: microservices, cloud native, and lately AI agents.
-Author of *Microservices Architecture and Engineering Practice* (published in Chinese).
+Author of four technical books published by Tsinghua University Press (in Chinese).
 
 **Blog:** [ddhigh.com/en](https://www.ddhigh.com/en/)
 
